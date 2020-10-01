@@ -14,8 +14,8 @@
     "no-unused-vars": [
       "error", 
       { 
-        "argsignorepattern": "^_",
-        "varsignorepattern": "^_"
+        "argsIgnorePattern": "^_",
+        "varsIgnorePattern": "^_"
       }
     ],
     "indent": ["error", 2]
